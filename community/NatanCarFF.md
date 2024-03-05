@@ -1,6 +1,8 @@
 # Olá! eu sou o Natanael 👋🏻
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdigitalinnovationone%2Fdio-lab-open-source%2Fblob%2Fmain%2Fcommunity%2FNatanCarFF.md"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdigitalinnovationone%2Fdio-lab-open-source%2Fblob%2Fmain%2Fcommunity%2FNatanCarFF.md&label=VISITANTES&countColor=%2337d67a&labelStyle=upper" /></a>
+
 ## 🛰 Minhas redes sociais
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/🛡-natanael-carvalho-082380201/)
 - [![LinkedIn](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://github.com/NatanCarFF)
